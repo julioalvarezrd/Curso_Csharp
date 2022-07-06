@@ -7,7 +7,6 @@ while(num<5)
 }
 
 int i = 0;
-
 do
 {
     Console.WriteLine(i);

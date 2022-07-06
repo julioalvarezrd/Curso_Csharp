@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "While\While.csproj", "{BA49C894-4D5B-405F-8048-F47896860845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CicloFor", "CicloFor\CicloFor.csproj", "{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BA49C894-4D5B-405F-8048-F47896860845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA49C894-4D5B-405F-8048-F47896860845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA49C894-4D5B-405F-8048-F47896860845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
