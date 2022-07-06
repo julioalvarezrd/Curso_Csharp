@@ -28,7 +28,3 @@ else if (edad >= 12 && edad <= 17)
 {
     Console.WriteLine("Adolecencia");
 }
-
-
-
-
