@@ -2,16 +2,11 @@
 Las funciones nos ayuan a reutilizar codigo
 */
 
-Saluda();
+Saluda(); //Llamamos a nuestra funcion Saluda
 
 int suma = Suma(5, 20);
 Console.WriteLine(suma);
-
 Console.WriteLine(Mul(1));
-
-
-
-
 
 //Funcion que no recibe ni retorna
 static void Saluda()
