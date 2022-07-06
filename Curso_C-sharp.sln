@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1700.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Variables", "Curso_C-sharp\1-Variables.csproj", "{ECE51B20-F20C-4272-A421-758265E8B8CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Variables", "Curso_C-sharp\01-Variables.csproj", "{ECE51B20-F20C-4272-A421-758265E8B8CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-TiposDeDatos", "TiposDeDatos\2-TiposDeDatos.csproj", "{5FAA1D0F-925B-4869-AC7B-BE61E9A5EAF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-TiposDeDatos", "TiposDeDatos\02-TiposDeDatos.csproj", "{5FAA1D0F-925B-4869-AC7B-BE61E9A5EAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Funciones", "Funciones\3-Funciones.csproj", "{03A6FFAE-E235-4EE6-B6CE-6FBF160C2285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Funciones", "Funciones\03-Funciones.csproj", "{03A6FFAE-E235-4EE6-B6CE-6FBF160C2285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Sentencia_if", "Sentencia_if\4-Sentencia_if.csproj", "{677692D8-1111-46E1-A784-4862051FA41B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Sentencia_if", "Sentencia_if\04-Sentencia_if.csproj", "{677692D8-1111-46E1-A784-4862051FA41B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-SentenciaSwitch", "SentenciaSwitch\5-SentenciaSwitch.csproj", "{AB1B3690-49D7-453F-86D7-5889B881954B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-SentenciaSwitch", "SentenciaSwitch\05-SentenciaSwitch.csproj", "{AB1B3690-49D7-453F-86D7-5889B881954B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Array", "Array\6-Array.csproj", "{B9821C91-C777-416F-92B5-DFA625A345F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Array", "Array\06-Array.csproj", "{B9821C91-C777-416F-92B5-DFA625A345F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-While", "While\7-While.csproj", "{BA49C894-4D5B-405F-8048-F47896860845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-While", "While\07-While.csproj", "{BA49C894-4D5B-405F-8048-F47896860845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-CicloFor", "CicloFor\8-CicloFor.csproj", "{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-CicloFor", "CicloFor\08-CicloFor.csproj", "{AAEF27FC-AFF9-4AC9-B38F-C47182DB7C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Practica", "9-Practica\9-Practica.csproj", "{E34B708B-24B4-4340-8130-A9C5F0AB6D7B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Practica", "9-Practica\09-Practica.csproj", "{E34B708B-24B4-4340-8130-A9C5F0AB6D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-ClasesYObjetos", "ClasesYObjetos\10-ClasesYObjetos.csproj", "{F3E4A130-4C06-4E42-ABDF-9A1DCD9145C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E34B708B-24B4-4340-8130-A9C5F0AB6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E34B708B-24B4-4340-8130-A9C5F0AB6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E34B708B-24B4-4340-8130-A9C5F0AB6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E4A130-4C06-4E42-ABDF-9A1DCD9145C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E4A130-4C06-4E42-ABDF-9A1DCD9145C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E4A130-4C06-4E42-ABDF-9A1DCD9145C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E4A130-4C06-4E42-ABDF-9A1DCD9145C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
